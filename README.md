@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Mir. I am a student of BSc in Computer Science and Technology :3
+
 <!--
 **mirp01/mirp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
