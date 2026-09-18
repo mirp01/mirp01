@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Mir. I am a student of BSc in Computer Science and Technology :3
+My name is Mir. I am a graduate of BSc in Computer Science and Technology
 @_mirp.py
 
 <!--
